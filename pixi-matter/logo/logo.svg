@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 66.145832 66.145835"
+   height="250"
+   width="250">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="true"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer3"
+     inkscape:document-units="px"
+     inkscape:cy="179.09454"
+     inkscape:cx="107.87951"
+     inkscape:zoom="1.979899"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       id="grid847"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     id="layer3"
+     inkscape:groupmode="layer">
+    <rect
+       y="0"
+       x="0"
+       height="67.46875"
+       width="67.46875"
+       id="rect892"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:label="Shapes"
+     id="layer2"
+     inkscape:groupmode="layer" />
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Text">
+    <g
+       transform="translate(-0.10661286,-1.6024881)"
+       id="g890">
+      <path
+         style="fill:#76f09b;fill-opacity:1;stroke:none;stroke-width:0.167778px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 3.5173536,47.789512 11.90625,33.259516 20.295147,47.789512 Z"
+         id="path877" />
+      <g
+         id="g875"
+         transform="matrix(0.90588765,0,0,0.90588765,8.2053028,5.4239166)">
+        <text
+           id="text851"
+           y="31.065115"
+           x="10.919224"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.1286px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e91e63;fill-opacity:1;stroke:none;stroke-width:0.453218"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.1286px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#e91e63;fill-opacity:1;stroke-width:0.453218"
+             y="31.065115"
+             x="10.919224"
+             id="tspan849"
+             sodipodi:role="line">Pixi</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.1286px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4b5562;fill-opacity:1;stroke:none;stroke-width:0.453217"
+           x="-0.12790726"
+           y="46.06551"
+           id="text851-6"><tspan
+             sodipodi:role="line"
+             id="tspan849-1"
+             x="-0.12790726"
+             y="46.06551"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:18.1286px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4b5562;fill-opacity:1;stroke-width:0.453217">matter</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
